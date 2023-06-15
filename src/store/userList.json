@@ -1,0 +1,153 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "id": "1",
+            "name": "数据统计",
+            "icon": "el-icon-setting",
+            "children": [
+                {
+                    "id": 160187811186416,
+                    "name": "数据统计",
+                    "icon": "el-icon-user-solid",
+                    "url": "/dataStauts"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "系统设置",
+            "icon": "el-icon-setting",
+            "children": [
+                {
+                    "id": 1601878186416,
+                    "name": "用户管理",
+                    "icon": "el-icon-user-solid",
+                    "url": "/user"
+                },
+                {
+                    "id": 1601878214910,
+                    "name": "角色管理",
+                    "icon": "el-icon-s-help",
+                    "url": "/role"
+                }
+            ]
+        },
+        {
+            "id": 1601959694062,
+            "name": "类型管理",
+            "icon": "el-icon-s-order",
+            "children": [
+                {
+                    "id": 1602033575993,
+                    "name": "药品类型管理",
+                    "icon": "el-icon-help",
+                    "url": "/goods-type"
+                },
+                {
+                    "id": 16022831270792,
+                    "name": "宠物类型管理",
+                    "icon": "el-icon-attract",
+                    "url": "/petType"
+                }
+            ]
+        },
+        {
+            "id": 1601975407692,
+            "name": "商品管理",
+            "icon": "el-icon-folder-checked",
+            "children": [
+                {
+                    "id": 1601975422663,
+                    "name": "药品管理",
+                    "icon": "el-icon-chat-square",
+                    "url": "/goods"
+                },
+               
+                {
+                    "id": 1602048590751,
+                    "name": "折扣商品管理",
+                    "icon": "el-icon-collection-tag",
+                    "url": "/coupon"
+                }
+                
+              
+                
+            ]
+        },
+        {
+            "id": "5565655",
+            "name": "订单信息",
+            "icon": "el-icon-s-order",
+            "children": [
+                {
+                    "id": 1602831270792455,
+                    "name": "新增订单信息",
+                    "icon": "el-icon-circle-plus",
+                    "url": "/orderInsert"
+                },
+                {
+                    "id": 1602831270792,
+                    "name": "订单管理",
+                    "icon": "el-icon-s-order",
+                    "url": "/order"
+                },
+                
+                {
+                    "id": 1605831270792,
+                    "name": "宠物信息",
+                    "icon": "el-icon-orange",
+                    "url": "/pet"
+                },
+                {
+                    "id": 1605830792,
+                    "name": "主人信息",
+                    "icon": "el-icon-s-custom",
+                    "url": "/master"
+                }
+            ]
+        },
+        {
+            "id": 1602132584519,
+            "name": "库房信息",
+            "icon": "el-icon-house",
+            "children": [
+                {
+                    "id": 16021326517977,
+                    "name": "新增进货商",
+                    "icon": "el-icon-circle-plus-outline",
+                    "url": "/insertCompany"
+                },
+                {
+                    "id": 1602132657977,
+                    "name": "库房信息",
+                    "icon": "el-icon-discount",
+                    "url": "/WarehouseInfo"
+                },
+                {
+                    "id": 16021657977,
+                    "name": "进货商信息",
+                    "icon": "el-icon-info",
+                    "url": "/companyAll"
+                }
+            ]
+        },
+    
+        
+       
+        {
+            "id": 1609225870363,
+            "name": "考勤管理",
+            "icon": "el-icon-more-outline",
+            "children": [
+                {
+                    "id": 1609226050289,
+                    "name": "打卡范围设置",
+                    "icon": "el-icon-coordinate",
+                    "url": "/check-scope"
+                }
+            ]
+        }
+    ],
+    "msg": ""
+}
